@@ -1,2 +1,2 @@
 # hello-world
-just a test repository
+I'm starting feeling like a real progammer
